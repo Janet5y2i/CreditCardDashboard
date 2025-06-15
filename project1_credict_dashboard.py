@@ -1,5 +1,5 @@
 #os.getcwd()
-#/Users/JaneChang/Desktop/Janet/ProjectForPython/Project1_credictcardapprove/project1_credict_dashboard.py
+
 import streamlit as st
 import pandas as pd
 import numpy as np
